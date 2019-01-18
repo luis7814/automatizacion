@@ -9,7 +9,7 @@ import net.thucydides.core.annotations.Steps;
 
 public class EafitDefinitions {
 	
-	@Steps
+	/*@Steps
 	private EafitStep eafitStep; 
 	
 	@Given("^que Yeison quiere escribir un comentario a la Universidad EAFIT$")
@@ -27,6 +27,6 @@ public class EafitDefinitions {
 	public void elVisualizaElPantallaElMensaje(String mensajeRespuesta) throws Exception {
 		eafitStep.visualizarMensaje(mensajeRespuesta);
 	}
-	
+	*/
 }
 
